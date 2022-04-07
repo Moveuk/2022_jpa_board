@@ -1,0 +1,6 @@
+1. 프로젝트 자동 빌드 체크
+  -Build project automatically 체크
+  -Allow auto-make to start even if developed application is currently running 체크
+2. ctrl + shift + a - 'resistry' 검색 후 'compiler.automake.postpone.when.idle.less.than' 값 300으로 설정.
+autobuild를 할 때 IDE가 특정 시간 동안 idle(유휴)상태면 미뤄주는 옵션
+ 
